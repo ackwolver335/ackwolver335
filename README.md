@@ -1,16 +1,24 @@
-# Welcome to My GitHub Profile
+# ⚡️ Welcome to My GitHub Profile
 
 Hello Buddy ! I am Abhay Chaudhary well known as Ack Wolver, a passionate coder and lifelong learner. Here on my Github you will find a variety of ideas to work on different Projects together by learning different languages and their basics. 
 
 I m a lovable person regarding the experimental things containing new technologies, also sharing my journey through this profile view.
 
-## About Me
+## 🚀 About Me
 
 - **India, New Delhi (Delhi)**
 - **UnderGraduate - BCA**
 - **Web Development, Programming,Designing and Marketing**
 
-## Skills
+## My Working Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+## My REAMDE Stats
+
+![ackwolver335's Stats](https://github-readme-stats.vercel.app/api?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&count_private=true) ![ackwolver335's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+## 🛠 Skills
 
 - **Programmed With - Python, Java and C/C++**
 - **Web Development - HTML, CSS and Bootstrap**
@@ -38,20 +46,11 @@ I m a lovable person regarding the experimental things containing new technologi
 
 **Site Link** - [Website](https://ackwolver335.github.io/teasetup.gd/)
 
-## How to Reach Me
+## 📫 How to Reach Me
 
 - **Email** - abhaych335@gmail.com
 - **Instagram** - @being_chaudhary.ig
 - **Twitter** - @AbhayCh84760
-
-## My Working Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
-## My REAMDE Stats
-
-![ackwolver335's Stats](https://github-readme-stats.vercel.app/api?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&count_private=true) 
-![ackwolver335's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Support Me
 
