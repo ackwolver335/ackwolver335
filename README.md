@@ -51,8 +51,8 @@ I m a lovable person regarding the experimental things containing new technologi
 ## 📫 How to Reach Me
 
 - **Email** - abhaych335@gmail.com
-- **Instagram** - @being_chaudhary.ig
-- **Twitter** - @AbhayCh84760
+- **Instagram** - [@being_chaudhary.ig](https://www.instagram.com/being_chaudhary.ig/)
+- **Twitter** - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhayCh84760)
 
 ## Support Me
 
