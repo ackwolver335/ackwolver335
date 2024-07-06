@@ -1,3 +1,31 @@
+<style>
+    div{
+        margin: 0;
+        padding: 0;
+    }
+
+    section{
+        transition: 0.5s;
+        padding: 12px;
+        border-radius: 5px;
+    }
+
+    p{
+        margin: 0;
+        padding: 0;
+    }
+
+    section:hover{
+        box-shadow: 0px 4px 20px #ffffff;
+    }
+
+    img{
+        height: 200px;
+        width: 350px;
+    }
+
+</style>
+
 # ⚡️ Welcome to My GitHub Profile
 
 Hello Buddy ! I am Abhay Chaudhary well known as Ack Wolver, a passionate coder and lifelong learner. Here on my Github you will find a variety of ideas to work on different Projects together by learning different languages and their basics. 
@@ -10,29 +38,27 @@ I m a lovable person regarding the experimental things containing new technologi
 - **UnderGraduate - BCA**
 - **Web Development, Programming,Designing and Marketing**
 
-## My Working Streak and README Stats
+<div style = 'display:flex; gap: 20px'>
+<section>
 
-<div style = 'display: flex;gap:20px; align-items: center;'>
+## My Working Streak
 
-<div style = 'width: 200px;'>
+<p style = 'padding:0px;margin:0px;'> <img src = 'https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=5' alt = 'Abhay Chaudhary Streak'>
+</p>
+</section>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<section>
+
+## My REAMDE Stats
+
+<p> <img src = 'https://github-readme-stats.vercel.app/api?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&count_private=true' alt = 'Abhay Chaudhary Stats'>
+</p> 
+
+</section>
 
 </div>
-
-<div style = 'width: 200px;'>
-
-![ackwolver335's Stats](https://github-readme-stats.vercel.app/api?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-</div>
-
-</div> 
 
 ## 🛠 Skills
-
-<div style = 'display:flex;gap: 30px;align-items:center;'>
-
-<div>
 
 - **Programmed With - Python, Java and C/C++**
 - **Web Development - HTML, CSS and Bootstrap**
@@ -40,11 +66,7 @@ I m a lovable person regarding the experimental things containing new technologi
 - **Social Media Marketing - IG,Twitter,FB**
 - **Others - Swift,C# and JS**
 
-</div>
-
 ![ackwolver335's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-</div>
 
 ## Projects 
 
