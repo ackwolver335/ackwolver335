@@ -14,13 +14,13 @@ I m a lovable person regarding the experimental things containing new technologi
 
 <div style = 'display: flex;gap:20px; align-items: center;'>
 
-<div style = 'width: 350px;'>
+<div style = 'width: 200px;'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 </div>
 
-<div style = 'width: 350px;'>
+<div style = 'width: 200px;'>
 
 ![ackwolver335's Stats](https://github-readme-stats.vercel.app/api?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
