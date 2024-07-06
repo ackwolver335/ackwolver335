@@ -10,15 +10,20 @@ I m a lovable person regarding the experimental things containing new technologi
 - **UnderGraduate - BCA**
 - **Web Development, Programming,Designing and Marketing**
 
-## My Working Streak
+## My Working Streak and README Stats
+
+<div style = 'display: flex;gap:20px; align-items: center;'>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-## My REAMDE Stats
-
-![ackwolver335's Stats](https://github-readme-stats.vercel.app/api?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+![ackwolver335's Stats](https://github-readme-stats.vercel.app/api?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&count_private=true)
+</div> 
 
 ## 🛠 Skills
+
+<div style = 'display:flex;gap: 30px;align-items:center;'>
+
+<div>
 
 - **Programmed With - Python, Java and C/C++**
 - **Web Development - HTML, CSS and Bootstrap**
@@ -26,7 +31,11 @@ I m a lovable person regarding the experimental things containing new technologi
 - **Social Media Marketing - IG,Twitter,FB**
 - **Others - Swift,C# and JS**
 
+</div>
+
 ![ackwolver335's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
 
 ## Projects 
 
