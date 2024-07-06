@@ -68,7 +68,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 If you likes what I do and want to support me :
 
-- Give me a Star on my Repos
+- Give me a ⚡️ Star on my Repos
 - Share my [work](https://github.com/ackwolver335?tab=repositories) and [profile](https://github.com/ackwolver335) with your network
 
 Thanks for visiting my Github Profile ! Hope you find my projects useful, helpful and inspiring. Let's connect and collaborate to build something amazing !
