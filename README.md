@@ -26,9 +26,9 @@ I m a lovable person regarding the experimental things containing new technologi
 - **Social Media Marketing - IG,Twitter,FB**
 - **Others - Swift,C# and JS**
 
-<div>
+<div align = 'center'>
 <a href = 'https://github.com/ackwolver335?tab=repositories'>
-<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ackwolver335&theme=swift' alt = 'Overview Image' align = 'center'>
+<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ackwolver335&theme=swift' alt = 'Overview Image'>
 </a>
 </div>
 
