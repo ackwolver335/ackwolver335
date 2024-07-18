@@ -16,7 +16,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 ## My REAMDE Stats
 
-![ackwolver335's Stats](https://github-readme-stats.vercel.app/api?username=ackwolver335&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ackwolver335?cardType=level-alternate&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ## 🛠 Skills
 
