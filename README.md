@@ -16,7 +16,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 ## My REAMDE Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ackwolver335?cardType=level-alternate&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ackwolver335?cardType=level-alternate&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ## 🛠 Skills
 
