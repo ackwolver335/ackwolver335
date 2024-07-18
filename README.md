@@ -34,17 +34,31 @@ I m a lovable person regarding the experimental things containing new technologi
 
 ## Projects 
 
+<div style = "display:flex; justify-content: space-between; align-items: center;">
+<div style = "width: 550px;">
+
 ### 1. Python Library - Calculator
 
+<p style = "font-size: 11px; font-weight: 600;">
+
 **About** - A Python Group of Modules that contains general concepts formula for working on different available field of calculations. It will be surely useful for the new upcoming libraries of Python for performing calculations regarding unit's conversions of different fields.
+
+</p>
 
 **Tech Stack** - Python its latest version - 3.12
 
 **Repo Link** - [Calculator](https://github.com/ackwolver335/Calculator)
 
+</div>
+<div style = "width: 550px;">
+
 ### 2. Front-End Site - Tea Setup
 
+<p style = "font-size: 11px; font-weight: 600;">
+
 **About** - A Fully Bootstrap dependent site for the new ventures or startups regarding the online delivery general snacks items, as introduced will be helpful for the startup projects if someone wanted to involve in it.
+
+</p>
 
 **Tech Stack** - HTML, CSS and Bootstrap
 
@@ -52,15 +66,25 @@ I m a lovable person regarding the experimental things containing new technologi
 
 **Site Link** - [Website](https://ackwolver335.github.io/teasetup.gd/)
 
+</div>
+<div style = "width: 550px;">
+
 ### 3. Front-end Site : Skyware
 
+<p  style = "font-size: 14px; font-weight: 600;">
+
 **About** - A Fully Bootstrap and CSS dependent site created from a practice of Hacathon regarding proper establishment of Skyware Site.
+
+</p>
 
 **Tech Stack** - HTML, CSS and Bootstrap
 
 **Repo Link** - [Skyware](https://github.com/ackwolver335/Skyware)
 
 **Site Link** - [Website](https://ackwolver335.github.io/Skyware/)
+
+</div>
+</div>
 
 ## 📫 How to Reach Me
 
