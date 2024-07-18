@@ -28,7 +28,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 <div>
 <a href = 'https://github.com/ackwolver335?tab=repositories'>
-<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ackwolver335&theme=swift' alt = 'Overview Image'>
+<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ackwolver335&theme=swift' alt = 'Overview Image' align = 'center'>
 </a>
 </div>
 
