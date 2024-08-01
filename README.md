@@ -14,7 +14,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-## My REAMDE Stats
+## My README Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ackwolver335?cardType=level-alternate&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
