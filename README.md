@@ -67,6 +67,7 @@ I m a lovable person regarding the experimental things containing new technologi
 - **Email** - abhaych335@gmail.com
 - **Instagram** - [@being_chaudhary.ig](https://www.instagram.com/being_chaudhary.ig/)
 - **Twitter** - [@AbhayCh84760](https://x.com/AbhayCh84760)
+- **LinkdIN** - [Abhay Chaudhary](https://www.linkedin.com/in/abhay-chaudhary-a6bb7b260)
 
 ## Support Me
 
