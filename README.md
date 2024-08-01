@@ -20,7 +20,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 ## 🛠 Skills
 
-- **Programmed With - Python, Java and C/C++**
+- **Programming Language used - Python, Java and C/C++**
 - **Web Development - HTML, CSS and Bootstrap**
 - **Artifical Intelligence - Python**
 - **Social Media Marketing - IG,Twitter,FB**
