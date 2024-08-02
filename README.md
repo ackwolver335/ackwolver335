@@ -21,7 +21,8 @@ I m a lovable person regarding the experimental things containing new technologi
 ## 🛠 Skills
 
 - **Programming Language used - Python, Java and C/C++**
-- **Web Development - HTML, CSS and Bootstrap**
+- **Web Development - HTML, CSS and Javascript**
+- **Web Development Framework - Bootstrap and JQuery**
 - **Artifical Intelligence - Python**
 - **Social Media Marketing - IG,Twitter,FB**
 - **Others - Swift,C# and JS**
