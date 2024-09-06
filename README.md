@@ -12,7 +12,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 ## 🚀 My Working Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_height=193&stroke=BBFF00&sideLabels=00FFFF&sideNums=07FFD5&fire=FF0000&ring=FF0000)](https://git.io/streak-stats)
 
 ## 🥇 Skills 🤝🏼
 
