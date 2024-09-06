@@ -12,7 +12,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 ## 🚀 My Working Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_height=193&stroke=BBFF00&sideLabels=00FFFF&sideNums=07FFD5&fire=FF0000&ring=FF0000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&card_height=193&stroke=BBFF00&sideLabels=00FFFF&sideNums=07FFD5&fire=FF0000&ring=FF0000" alt="GitHub Streak" /></a>
 
 ## 🥇 Skills 🤝🏼
 
@@ -21,13 +21,10 @@ I m a lovable person regarding the experimental things containing new technologi
 - **Web Development Framework - Bootstrap and JQuery**
 - **Artifical Intelligence - Python**
 - **Social Media Marketing - IG,Twitter,FB**
-- **Others - Swift,C# and JS**
 
-<div>
 <a href = 'https://github.com/ackwolver335?tab=repositories'>
 <img src = 'http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ackwolver335&theme=swift' alt = 'Overview Image'>
 </a>
-</div>
 
 ## 🎖️ Projects 💪🏻
 
