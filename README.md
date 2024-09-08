@@ -12,7 +12,7 @@ I m a lovable person regarding the experimental things containing new technologi
 
 ## 🚀 My Working Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ackwolver335&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF)](https://git.io/streak-stats)
 
 ## 🥇 Skills 🤝🏼
 
@@ -36,16 +36,6 @@ I m a lovable person regarding the experimental things containing new technologi
 | ----------- | --------------- |
 | **Python 3.12** | [Go Through](https://www.python.org/about/) |
 | **Library or Repo** | [Calculator](https://github.com/ackwolver335/Calculator) |
-
-### 👉🏻 Front-End Site - Tea Setup
-
-**About** - A Fully Bootstrap Based Desktop site that contains different of its pages and views together by its Clarified formats, go through it and visit in desktop mode for better UI Experience.
-
-| **Usables** | **Redirection** |
-| ----------- | --------------- |
-| **Bootstrap 5.3.3** | [Go Through](https://getbootstrap.com/) |
-| **Source Code** | [Visit Repo](https://github.com/ackwolver335/teasetup.gd) |
-| **Live Site** | [Visit Site](https://ackwolver335.github.io/teasetup.gd/) |
 
 #### ✌🏻 Further Code and Projects Attached Below 🙃
 
