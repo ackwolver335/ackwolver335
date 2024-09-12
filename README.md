@@ -1,4 +1,4 @@
-# ⚡️ Welcome to My GitHub Profile 🖐🏻
+# 🙏🏻 Welcome to My GitHub Profile 🖐🏻
 
 Hello Buddy ! I am Abhay Chaudhary well known as Ack Wolver, a passionate coder and lifelong learner. Here on my Github you will find a variety of ideas to work on different Projects together by learning different languages and their basics. 
 
@@ -19,7 +19,6 @@ I m a lovable person regarding the experimental things containing new technologi
 - **Programming Language used - Python, Java and C/C++**
 - **Web Development - HTML, CSS and Javascript**
 - **Web Development Framework - Bootstrap and JQuery**
-- **Artifical Intelligence - Python**
 - **Social Media Marketing - IG,Twitter,FB**
 
 <a href = 'https://github.com/ackwolver335?tab=repositories'>
@@ -28,16 +27,15 @@ I m a lovable person regarding the experimental things containing new technologi
 
 ## 🎖️ Projects 💪🏻
 
-### 👉🏻 Python Library - Calculator
+| **Project Name** | **Description** | **Repo Link** |
+| ---------------- | --------------- | ------------- |
+| **ImagetoPDF Converter** | *A Desktop Application for converting images to pdf* | [Image2pdf](https://github.com/ackwolver335/Image2pdf-GUI) |
+| **GUI Calendar App** | *A Desktop Application for checking Calendar of any year* | [GUICalendar](https://github.com/ackwolver335/GUI-Calendar) |
+| **Calculator (Python Library)** | *A Python Package or Library for Calculator units calculations* | [Calculator](https://github.com/ackwolver335/Calculator) |
+| **Tea Setup WebApp** | *A General Online Tea Shop for general snacks and other stuff Web App* | [teasetup](https://github.com/ackwolver335/teasetup.gd) |
+| **Learning Respositories** | *General Codes and Frameworks Learning Repos for learning skills.* | [learningRepos](https://github.com/stars/ackwolver335/lists/learning-resources) |
 
-**About** - A Python Library that is designed to use the calculator units conversion in field of Python Programming in the form of Python Library and Modules.
-
-| **Usables** | **Redirection** |
-| ----------- | --------------- |
-| **Python 3.12** | [Go Through](https://www.python.org/about/) |
-| **Library or Repo** | [Calculator](https://github.com/ackwolver335/Calculator) |
-
-#### ✌🏻 Further Code and Projects Attached Below 🙃
+#### ✌🏻 Further Projects are Attached Below 🙃
 
 ## 📫 How to Reach Me ⛳
 
