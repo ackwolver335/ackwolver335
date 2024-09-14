@@ -21,9 +21,7 @@ I m a lovable person regarding the experimental things containing new technologi
 - **Web Development Framework - Bootstrap and JQuery**
 - **Social Media Marketing - IG,Twitter,FB**
 
-<a href = 'https://github.com/ackwolver335?tab=repositories'>
-<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ackwolver335&theme=swift' alt = 'Overview Image'>
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ackwolver335&theme=dark)
 
 ## 🎖️ Projects 💪🏻
 
@@ -54,3 +52,4 @@ If you likes what I do and want to support me :
 Thanks for visiting my Github Profile ! Hope you find my projects useful, helpful and inspiring. Let's connect and collaborate to build something amazing !
 
 Abhay Chaudhary [Ack Wolver](https://github.com/ackwolver335/ackwolver335) !
+
